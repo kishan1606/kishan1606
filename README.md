@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Kishan | Full Stack Developer<br><br>💼 **Currently working on** scalable apps with Django & React<br>🤝 **Looking to collaborate on** open-source or impactful projects<br>🛠️ **Looking for help with** mastering AWS and distributed systems<br>🌱 **Currently learning** Kubernetes and advanced Python patterns<br>💬 **Ask me about** backend optimization, APIs, or where to get good Chai<br>⚡ **Fun fact:** I once fixed a critical production bug in my dreams<br><br>📫 Reach me: patelkishan.krp@gmail.com | [LinkedIn](https://linkedin.com/in/kishanpatel166)
+👋 Hi, I'm Kishan | Full Stack Developer<br><br>💼 **Currently working on** scalable apps with Django & React<br>🤝 **Looking to collaborate on** open-source or impactful projects<br>🛠️ **Looking for help with** mastering AWS and distributed systems<br>🌱 **Currently learning** Kubernetes and advanced Python patterns<br>💬 **Ask me about** backend optimization, APIs, or how many bugs I’ve turned into "features."<br>⚡ **Fun fact:** I once fixed a critical production bug in my dreams<br><br>📫 Reach me: patelkishan.krp@gmail.com | [LinkedIn](https://linkedin.com/in/kishanpatel166)
 
 
 ## 🌐 Socials:
